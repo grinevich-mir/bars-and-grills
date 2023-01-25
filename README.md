@@ -13,7 +13,6 @@ Project homepage: [bng.damodar.dev](https://bng.damodar.dev)\
 Frontend: [app.bng.damodar.dev](https://app.bng.damodar.dev)\
 Admin-Panel: [admin.bng.damodar.dev](https://admin.bng.damodar.dev) (username: `admin`, password: `i_like_bars_and_i_cannot_lie`)\
 Django API: [api.bng.damodar.dev](https://api.bng.damodar.dev) ([Swagger specs](https://api.bng.damodar.dev/api/swagger))\
-Source Code: on [GitHub](https://github.com/damo-da/bars-and-grills/)
 
 <div style="display: flex; flex-wrap: wrap;">
  <div style="flex: 1 1 300px;margin-top: auto;margin-bottom: auto;margin-right: 0.5em;"><img src="./app/screenshots/iphone.png" style="width: 100%; max-width: 300px; max-height: 400px" /></div>
@@ -50,5 +49,4 @@ Source Code: on [GitHub](https://github.com/damo-da/bars-and-grills/)
 ## License
 Free and open source software (FOSS) licensed using the [MIT License](./LICENSE.txt).
 
-## Contributors
-This project was created by Damodar Dahal <hi@damodar.dev>. All pull requests and issues are welcome.
+
